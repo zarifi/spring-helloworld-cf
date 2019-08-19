@@ -1,2 +1,2 @@
 # spring-helloworld-cf
-Spring Boot application and PCF
+Spring Boot application which is deployed to PCF
